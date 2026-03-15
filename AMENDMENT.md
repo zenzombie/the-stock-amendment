@@ -28,3 +28,9 @@ Article V, to establish a permanent constitutional rule that no act of Congress
 can weaken, repeal, or circumvent: that no person serving as a Member of
 Congress shall use that office, directly or indirectly, to profit from the
 trading of individual securities.
+
+Any implementing legislation under this article should use bright-line
+permitted categories rather than open-ended balancing tests. In particular,
+Congress should limit permitted public-fund holdings to target-date funds,
+United States government obligations, qualifying cash equivalents, and funds
+that track indexes expressly approved by law.

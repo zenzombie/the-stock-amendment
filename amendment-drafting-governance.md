@@ -93,17 +93,20 @@ Definitions should not answer:
 
 Better:
 
-- "Named index-aligned fund" means a public fund that tracks or is benchmarked
-  to a specifically identified index and does not use a sector, issuer-specific,
-  thematic, or policy-targeted strategy.
+- "Safe-harbor fund" means a public fund, including an index fund or
+  target-date retirement fund, that either tracks or is benchmarked to a
+  specifically identified index, or follows a target-date asset-allocation
+  strategy with broad diversification and automatic rebalancing, and in either
+  case does not use a sector, issuer-specific, thematic, or policy-targeted
+  strategy.
 
 Worse:
 
-- "Named index-aligned fund" means a public fund benchmarked to an index
-  approved by statute or regulation under this subchapter.
+- "Safe-harbor fund" means a public fund approved by statute or regulation
+  under this subchapter.
 
-Reason: index approval is an operative rule, not part of the core meaning of
-the term.
+Reason: qualification or approval criteria are operative rules, not part of the
+core meaning of the term.
 
 ## Operative-Clause Rules
 
@@ -139,8 +142,7 @@ Use a short whitelist of clearly permitted assets.
 
 Current preferred safe-harbor categories are:
 
-- target-date funds
-- named index-aligned funds
+- safe-harbor funds, including target-date funds and index funds
 - United States government obligations
 - qualifying cash equivalents
 

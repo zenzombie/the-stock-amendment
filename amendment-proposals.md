@@ -68,8 +68,65 @@ Any AI system, automated editor, or drafting assistant making changes to the def
 16. Nonrecognition treatment
    - Tax treatment under which a mandatory compliance transfer is not treated as a taxable sale or exchange at the time of compliance, and gain or loss is deferred under applicable carryover or replacement-property rules.
 
-17. Named index-aligned fund
-   - A public fund that tracks, seeks to replicate, or is contractually benchmarked to a specifically identified index and does not use a sector, industry, issuer-specific, thematic, or policy-targeted strategy.
+17. Safe-harbor fund
+   - A public fund, including an index fund or target-date retirement fund, that either tracks, seeks to replicate, or is contractually benchmarked to a specifically identified index, or follows a target-date asset-allocation strategy with broad diversification and automatic rebalancing, and in either case does not use a sector, industry, issuer-specific, thematic, or policy-targeted strategy.
+
+18. Stocks
+   - Ownership interests tied to a specific issuer, including common stock, preferred stock, restricted stock units, stock options, employee stock purchase plan shares, and performance stock units.
+
+19. Corporate bonds
+   - Debt securities tied to a specific issuer, including corporate bonds and similar corporate debt instruments.
+
+20. ETF
+   - An exchange-traded fund: a pooled investment fund traded on a public exchange.
+
+21. Mutual fund
+   - A pooled investment fund that offers shares to investors and is not exchange-traded.
+
+22. Private hedge fund
+   - A privately offered pooled investment fund that uses active or opportunistic strategies, including long/short equity, leverage, arbitrage, or derivatives, and that accepts capital from accredited or institutional investors. Includes funds with redemption windows as well as those with lock-up periods.
+
+23. Private interest
+   - A private placement or other private investment interest not otherwise listed as a separate category, excluding private hedge funds and closely-held operating businesses.
+
+24. Closely-held operating business
+   - A private business in which the covered person holds an ownership interest and that conducts active trade or business operations, as distinct from a passive investment vehicle.
+
+25. Personal-use residential real property
+   - Residential real property used primarily for personal, family, or household purposes by the covered person or the covered person's household, including a primary residence or secondary residence, and not held primarily for rental income, investment, speculation, or development.
+
+26. Investment real property interest
+   - A direct interest in specific real property held wholly or partly for rental income, investment return, appreciation, speculation, or development, excluding a publicly traded security, fund, derivative, or other instrument otherwise classified under the asset-classification rules of the amendment.
+
+27. Fixed insurance or annuity product
+   - An insurance policy, annuity contract, or similar insurer-administered product that provides only a stated guaranteed rate, a stated fixed payment stream, or another return not determined by any market reference interest.
+
+28. US Treasury-linked insurance or annuity product
+   - An insurance policy, annuity contract, or similar insurer-administered product under which contract value, credited return, or benefits are determined solely by reference to United States government obligations or benchmark rates derived solely from them.
+
+29. Market-linked insurance or annuity product
+   - An insurance policy, annuity contract, or similar insurer-administered product, including a variable annuity, variable life product, fixed indexed annuity, registered index-linked annuity, or similar contract, under which contract value, credited return, or benefits are determined wholly or partly by reference to securities, funds, equity or commodity indexes, or other reference interests. This term does not include a Fixed insurance or annuity product or a US Treasury-linked insurance or annuity product.
+
+30. Digital asset
+   - A digital representation of value recorded on a cryptographically secured distributed ledger or similar technology.
+
+31. Commodity interest
+   - A commodity, commodity future, commodity option, commodity swap, or similar commodity-linked contract.
+
+32. Public convertible instrument
+   - A publicly traded bond, note, preferred share, or similar instrument that is convertible into, exchangeable for, or otherwise linked to equity of a specific issuer.
+
+33. Public derivative instrument
+   - An exchange-traded option, future, or similar derivative instrument that can be opened or closed through a public market.
+
+34. Private derivative contract
+   - A swap, contract for difference, or other privately negotiated or bilateral derivative or synthetic contract.
+
+35. Municipal bond
+   - A debt security issued by a State, territory, Tribal government, municipality, or political subdivision or instrumentality of any such government.
+
+36. Foreign sovereign bond
+   - A debt security issued by a foreign state, foreign political subdivision, foreign central bank, or instrumentality of any such issuer.
 
 ---
 
@@ -234,45 +291,67 @@ Pair the trading prohibition with an optional compliant vehicle that offers a pr
 
 Classify assets based on the economic exposure of the instrument itself, not on account type and not on who controls the account. This keeps asset rules account-agnostic and separate from beneficial ownership and control definitions, which are addressed elsewhere.
 
-#### Covered Assets
+#### Quick Applicability Guide (Reader-First)
 
-1. Individual issuer securities
-   - Includes common stock, preferred stock, corporate bonds, and convertible instruments.
-   - Condition: covered when the instrument creates issuer-specific economic exposure.
+- If you own Stocks or Corporate bonds from specific companies, this applies to you.
+- If you hold Foreign sovereign bonds, this applies to you.
+- If you own ETFs (except for Safe-harbor funds), this applies to you.
+- If you own mutual funds (except for Safe-harbor funds), this applies to you.
+- If you only own broad index funds or target-date retirement funds that qualify as Safe-harbor funds, this generally does not restrict those holdings.
+- If you trade crypto or commodity-linked products, this applies to you.
+- If you hold a Market-linked insurance or annuity product, this applies, but Congress should provide a lawful path to reallocate, convert, exchange, or surrender the product into a compliant form.
+- If you hold only a Fixed insurance or annuity product, this generally does not restrict that product.
+- If you hold only a US Treasury-linked insurance or annuity product, this generally does not restrict that product.
+- If you hold Municipal bonds directly, disclosure is still required, but mandatory divestment is not.
+- If you hold a Private interest, disclosure is still required, but new investment in that category is not permitted while you are covered.
+- If you own investment real property, disclosure is still required, but mandatory divestment is not.
+- If you only own personal-use residential real property, that generally does not trigger disclosure solely by reason of this subchapter.
+- If you already own a Closely-held operating business, disclosure is still required, mandatory divestment is not, and continued funding of that existing business remains permitted.
+- Less common products are listed separately under complex vehicles.
 
-2. Sector or thematic pooled funds
-   - Includes ETFs and mutual funds designed around a single sector, industry, or policy-sensitive theme.
-   - Condition: covered when the fund is narrowly concentrated rather than broad-market diversified.
+#### Mandatory Divestment Assets
 
-3. Derivatives and synthetic exposures
-   - Includes options, futures, swaps, contracts for difference, and similar instruments.
-   - Condition: covered when payoff value is tied to a specific issuer or narrow sector index.
+1. Common holdings:
+   - Stocks.
+   - Corporate bonds.
+   - Exchange Traded Funds (ETFs) except for Safe-harbor funds.
+   - Mutual funds except for Safe-harbor funds.
 
-4. Employer-linked equity compensation instruments
-   - Includes RSUs, stock options, ESPP shares, and performance stock units.
-   - Condition: covered when the instrument provides company-linked upside/downside exposure.
+2. Less common holdings:
+   - Foreign sovereign bonds.
+   - Public convertible instruments.
+   - Public derivative instruments.
+   - Private derivative contracts.
+   - Market-linked insurance or annuity products.
+   - Digital assets.
+   - Commodity interests.
+   - Private hedge funds.
 
-5. Private concentrated interests
-   - Includes private placements and narrowly focused private funds.
-   - Condition: covered when exposure is issuer-specific or concentrated in a narrow set of issuers.
+#### Disclosure-Only Assets
+
+General rule for this category: each listed asset must be disclosed, is not subject to mandatory divestment solely by reason of this subchapter, and remains subject to any recusal, blind-trust, reporting, or other ethics rules provided by law. A covered person may continue to hold and may transfer additional value into an existing position in a listed asset, but may not create a new position in a listed asset while subject to this subchapter, except as provided by law for involuntary acquisitions or compliance administration.
+
+1. Private interests held while becoming covered.
+
+2. Investment real property interests.
+
+3. Closely-held operating businesses.
+
+4. Municipal bonds.
 
 #### Excluded Assets
 
-1. Named index-aligned funds
-   - Includes total-market equity funds, broad bond funds, and similar public funds that are tied to a specifically identified broad index.
-   - Condition: excluded only when the fund tracks or is benchmarked to an expressly approved index and does not use a sector, thematic, issuer-specific, or discretionary active strategy.
+1. Safe-harbor funds.
 
-2. Target-date funds
-   - Includes diversified lifecycle products that allocate by time horizon under preset rules.
-   - Condition: excluded when the fund uses automated rebalancing and invests only through excluded assets or named index-aligned funds.
+2. Personal-use residential real property.
 
-3. Government obligations and qualifying cash equivalents
-   - Includes U.S. Treasuries, insured deposits, and government-only money market instruments.
-   - Condition: excluded when exposure is limited to sovereign credit and short-duration cash management.
+3. Fixed insurance or annuity products.
 
-4. Involuntary de minimis residual positions
-   - Includes fractional or residual positions created by mergers, spin-offs, or similar corporate actions.
-   - Condition: excluded only during a defined cure period and only if divested within that period.
+4. US Treasury-linked insurance or annuity products.
+
+5. Government obligations and qualifying cash equivalents, including U.S. Treasuries, insured deposits, and government-only money market instruments.
+
+6. Involuntary de minimis residual positions during the cure period.
 
 #### Drafting Notes For Refinement
 
@@ -288,7 +367,7 @@ Classify assets based on the economic exposure of the instrument itself, not on 
    - State explicitly that asset status does not change based on whether held in a standard taxable brokerage account (including app-based brokerages), IRA, 401(k), or other vehicle.
 
 4. Prefer bright-line permitted fund categories over open-ended flexibility
-   - Favor named index-aligned funds and target-date funds as the main safe harbors.
+   - Favor Safe-harbor funds as the main safe harbor category for index funds and target-date retirement funds.
    - Avoid multifactor standards that require case-by-case judgment about whether a fund is "diversified enough" or "passive enough."
    - If a fund does not clearly fit an enumerated permitted category, treat it as covered unless Congress expressly adds it.
 
@@ -301,20 +380,38 @@ Classify assets based on the economic exposure of the instrument itself, not on 
 
 2. Covered assets
    - The term "covered asset" means any of the following:
-     - (A) Individual issuer securities, including common stock, preferred stock, corporate debt securities, and convertible instruments, where the instrument creates issuer-specific economic exposure.
-     - (B) Sector or thematic pooled funds, including exchange-traded funds and mutual funds, where the fund is narrowly concentrated in a single sector, industry, or policy-sensitive theme.
-     - (C) Derivative or synthetic instruments, including options, futures, swaps, contracts for difference, and similar contracts, where payoff value is tied to a specific issuer or narrow sector index.
-     - (D) Employer-linked equity compensation instruments, including restricted stock units, stock options, employee stock purchase plan shares, and performance stock units, where the instrument provides company-linked economic exposure.
-     - (E) Private concentrated interests, including private placements and narrowly focused private funds, where exposure is issuer-specific or concentrated in a narrow set of issuers.
+       - (A) Common holdings most members can identify quickly:
+          - (i) Stocks, where the instrument creates issuer-specific economic exposure.
+          - (ii) Corporate bonds, where the instrument creates issuer-specific economic exposure.
+          - (iii) ETFs, except for Safe-harbor funds.
+          - (iv) Mutual funds, except for Safe-harbor funds.
+       - (B) Complex vehicles (less common, still covered):
+          - (i) Foreign sovereign bonds.
+          - (ii) Public convertible instruments.
+          - (iii) Public derivative instruments.
+          - (iv) Private derivative contracts.
+          - (v) Market-linked insurance or annuity products.
+          - (vi) Digital assets.
+          - (vii) Commodity interests.
+          - (viii) Private hedge funds.
 
-3. Excluded assets
+3. Disclosure-only assets
+   - The following assets shall be disclosed as provided by law, but shall not be subject to mandatory divestment solely by reason of this subchapter:
+   - (A) Private interests.
+   - (B) Investment real property interests.
+   - (C) Closely-held operating businesses.
+   - (D) Municipal bonds.
+
+4. Excluded assets
    - The term "excluded asset" means any of the following:
-   - (A) Named index-aligned funds, including exchange-traded funds and mutual funds, where the fund tracks or is benchmarked to an index expressly approved by law and does not employ a sector, thematic, issuer-specific, or discretionary active strategy beyond limits established by law.
-   - (B) Target-date funds where diversification and automated rebalancing are core product features and the fund invests only through excluded assets or named index-aligned funds.
-   - (C) United States government obligations and qualifying cash equivalents, including U.S. Treasuries, insured deposits, and government-only money market instruments, where exposure is limited to sovereign credit and short-duration cash management.
-   - (D) Involuntary de minimis residual positions created by merger, spin-off, or similar corporate action, but only during a defined cure period and only if divested within such period.
+   - (A) Safe-harbor funds, including exchange-traded funds, mutual funds, and target-date retirement funds, where the fund satisfies the definition of Safe-harbor fund and any index-approval or implementation criteria established by law.
+   - (B) Personal-use residential real property.
+   - (C) Fixed insurance or annuity products.
+   - (D) US Treasury-linked insurance or annuity products.
+   - (E) United States government obligations and qualifying cash equivalents, including U.S. Treasuries, insured deposits, and government-only money market instruments, where exposure is limited to sovereign credit and short-duration cash management.
+   - (F) Involuntary de minimis residual positions created by merger, spin-off, or similar corporate action, but only during a defined cure period and only if divested within such period.
 
-4. Construction
+5. Construction
    - Nothing in this section shall be construed to define or modify beneficial ownership, control, attribution, or household, which shall be governed by separate provisions.
 
 ---
@@ -325,32 +422,47 @@ Classify assets based on the economic exposure of the instrument itself, not on 
 
 #### Core Concept
 
-Every covered asset must have a legally defined transition path out of prohibited ownership or control. The amendment should require Congress to provide a simple compliance mechanism that works across ordinary brokerage holdings, employer-linked compensation, and illiquid or restricted assets, and should require that the mandated transition not trigger immediate tax recognition.
+Every covered asset subject to mandatory divestment must have a legally defined transition path out of prohibited ownership or control. The amendment should require Congress to provide a simple compliance mechanism that works across ordinary brokerage holdings, employer-linked compensation, Market-linked insurance or annuity products, and illiquid or restricted assets, should require that the mandated transition not trigger immediate tax recognition, should exclude Personal-use residential real property from disclosure solely by reason of this subchapter, should exclude Fixed insurance or annuity products and US Treasury-linked insurance or annuity products, and should treat Municipal bonds, Private interests, Investment real property interests, and Closely-held operating businesses as disclosure-only under a uniform no-new-position rule.
 
 #### Draft Policy Structure
 
 1. Universal transition rule
-   - Each covered asset must be removed from prohibited ownership or control within a fixed compliance window.
+   - Each covered asset other than a Private interest, an Investment real property interest, a Closely-held operating business, or a Municipal bond must be removed from prohibited ownership or control within a fixed compliance window.
    - Compliance may occur by in-kind transfer, supervised sale and rollover, redemption, cash-out, or other statutorily authorized transition method.
+   - Personal-use residential real property is not required to be disclosed solely by reason of this subchapter.
+   - Private interests must be disclosed and remain subject to any recusal, blind-trust, reporting, or other ethics rules provided by law, but are not subject to mandatory divestment solely by reason of this subchapter.
+   - Investment real property interests must be disclosed and remain subject to any recusal, blind-trust, reporting, or other ethics rules provided by law, but are not subject to mandatory divestment solely by reason of this subchapter.
+   - Closely-held operating businesses held by a covered person must be disclosed and remain subject to any recusal, blind-trust, reporting, or other ethics rules provided by law, but are not subject to mandatory divestment solely by reason of this subchapter.
+   - Municipal bonds held by a covered person must be disclosed and remain subject to any recusal, blind-trust, reporting, or other ethics rules provided by law, but are not subject to mandatory divestment solely by reason of this subchapter.
 
 2. Primary path for transferable market assets
    - If a covered asset can be transferred directly, it shall be moved in kind into a qualified receiving vehicle.
    - If direct transfer is not permitted or not operationally available, the asset shall be sold to an unaffiliated purchaser and the proceeds shall be rolled immediately into a qualified receiving vehicle.
 
-3. Path for employer-linked, contractual, or restricted assets
-   - If an asset is subject to issuer restrictions, vesting, lock-up, insider-trading limits, or plan-document constraints, the covered person must use the first legally available compliance method, including issuer redemption, cash settlement, broker-assisted same-day sale, or other statutorily approved disposition.
+3. Path for Market-linked insurance or annuity products
+   - If a covered asset is a Market-linked insurance or annuity product, Congress shall require the insurer or contract administrator to provide a lawful method to eliminate prohibited market exposure. Such method may include internal reallocation, conversion to a compliant Fixed insurance or annuity product, conversion to a compliant US Treasury-linked insurance or annuity product, exchange into a compliant product, surrender, or another statutorily authorized transition method.
+   - A covered person may not direct the product into prohibited market-linked exposure after the applicable compliance deadline.
+
+4. Ongoing acquisition rule
+   - While a covered person remains subject to this subchapter, the covered person may not acquire a new covered asset.
+   - While a covered person remains subject to this subchapter, the covered person may not increase an existing covered asset or transfer additional value into it, including by additional purchase, capital contribution, rollover, subscription, exercise, or similar action.
+   - Involuntary acquisitions may be held only as provided by the cure-period rules or other narrow exceptions established by law.
+   - While a covered person remains subject to this subchapter, the covered person may continue to hold and may transfer additional value into an existing disclosure-only asset position, but may not create a new disclosure-only asset position, except as provided by law for involuntary acquisitions or compliance administration.
+
+5. Path for employer-linked, contractual, or restricted assets
+   - If an asset is subject to issuer restrictions, vesting, lock-up, insider-trading limits, plan-document constraints, or comparable contract restrictions, the covered person must use the first legally available compliance method, including issuer redemption, cash settlement, broker-assisted same-day sale, insurer-administered conversion, or other statutorily approved disposition.
    - Pending disposition, the covered person may not increase, renegotiate, or selectively manage the position.
 
-4. Path for illiquid or private assets
+6. Path for illiquid covered assets
    - If no immediate market sale is commercially feasible, the asset shall be placed with an independent transition trustee or equivalent qualified custodian for liquidation at the first commercially reasonable lawful opportunity.
    - During that period, the covered person may not direct management, financing, voting, timing, or exit strategy except as required by generally applicable law.
 
-5. Tax rule
+7. Tax rule
    - Congress shall provide nonrecognition treatment for any mandatory compliance transfer required by this subchapter.
    - For an in-kind transfer, basis and holding period shall carry into the receiving vehicle or equivalent bookkeeping account.
    - For a compelled sale and rollover, gain or loss shall be deferred and attached to replacement property, rollover proceeds, or a statutory deferred-gain account until a later taxable disposition defined by law.
 
-6. Exit rule
+8. Exit rule
    - On leaving covered office, the individual may transfer assets or proceeds back out of a qualified receiving vehicle under uniform exit procedures.
    - Exit transfers required solely to unwind the in-office compliance structure shall not themselves be treated as taxable events unless and until a later taxable disposition occurs under ordinary tax law.
 
@@ -363,10 +475,13 @@ Every covered asset must have a legally defined transition path out of prohibite
    - Forced compliance should not impose an immediate capital-gains bill merely because a person enters public office.
 
 3. Covers the full asset universe
-   - Public securities, concentrated funds, derivatives, RSUs, private placements, and inherited covered assets each need an explicit path.
+   - Public securities, Foreign sovereign bonds, derivatives, Market-linked insurance and annuity products, digital assets, commodity interests, hedge funds, and inherited covered assets each need an explicit path, while Personal-use residential real property, Fixed insurance or annuity products, and US Treasury-linked insurance or annuity products are outside the covered regime, and disclosure-only assets are retained without mandatory divestment under a uniform no-new-position rule.
 
 4. Preserves the conflict rule
    - The mechanism removes prohibited exposure rather than merely renaming or rewrapping it.
+
+5. Prevents replenishment
+   - A divestment rule is ineffective if a covered person can simply open a new position or add capital to an old one while still in office.
 
 #### Known Risks And Mitigations
 
@@ -382,29 +497,46 @@ Every covered asset must have a legally defined transition path out of prohibite
 4. Complexity across account types
    - Keep the legal rule asset-based but require a standardized account-by-account compliance process administered through designated custodians.
 
+5. Rebuilding exposure after compliance
+   - Prohibit new acquisitions, capital additions, subscriptions, and similar transfers into covered assets while the covered person remains subject to the subchapter, and apply a uniform no-new-position rule for disclosure-only assets while permitting continued holdings and additions to existing disclosure-only positions, except under narrow involuntary-acquisition rules.
+
 ### Proposed Amendment Text (Draft)
 
 #### Clause-Style Draft
 
 1. Mandatory transition mechanism
-   - Congress shall provide by law a uniform mechanism for the disposition, transfer, liquidation, rollover, and certification of each covered asset subject to this subchapter.
+   - Congress shall provide by law a uniform mechanism for the disposition, transfer, liquidation, rollover, and certification of each covered asset subject to mandatory divestment under this subchapter.
 
 2. Required compliance path
-   - Not later than the end of the applicable compliance window, each covered asset shall be removed from prohibited ownership or control by one of the following methods as provided by law:
-     - (A) in-kind transfer into a qualified receiving vehicle;
-     - (B) sale to an unaffiliated purchaser followed by prompt rollover of the proceeds into a qualified receiving vehicle;
-     - (C) issuer redemption, cash settlement, broker-assisted disposition, or other statutorily authorized method for a restricted, employer-linked, derivative, or contractual instrument; or
-     - (D) placement with an independent transition trustee or equivalent qualified custodian for liquidation at the first commercially reasonable lawful opportunity.
+   - Not later than the end of the applicable compliance window, each covered asset other than a Private interest, an Investment real property interest, a Closely-held operating business, or a Municipal bond shall be removed from prohibited ownership or control by one of the following methods as provided by law:
+       - (A) in-kind transfer into a qualified receiving vehicle;
+       - (B) sale to an unaffiliated purchaser followed by prompt rollover of the proceeds into a qualified receiving vehicle;
+       - (C) issuer redemption, cash settlement, insurer-administered reallocation, insurer-administered conversion, exchange, broker-assisted disposition, or other statutorily authorized method for a restricted, employer-linked, derivative, contractual, or insurer-administered instrument; or
+       - (D) placement with an independent transition trustee or equivalent qualified custodian for liquidation at the first commercially reasonable lawful opportunity.
 
-3. Interim restrictions
+3. Ongoing acquisition prohibition
+   - While a covered person remains subject to this subchapter, the covered person shall not acquire a new covered asset.
+   - While a covered person remains subject to this subchapter, the covered person shall not increase an existing covered asset or transfer additional value into it, including by purchase, capital contribution, rollover, subscription, exercise, or similar action, except as provided by law for involuntary acquisitions or compliance administration.
+   - While a covered person remains subject to this subchapter, the covered person may continue to hold and may transfer additional value into an existing disclosure-only asset position, but shall not create a new disclosure-only asset position, except as provided by law for involuntary acquisitions or compliance administration.
+
+4. Disclosure-only private, real property, and municipal assets
+   - The following assets held by a covered person shall be disclosed and shall remain subject to any recusal, blind-trust, reporting, or other ethics rules provided by law, but shall not be subject to mandatory divestment solely by reason of this subchapter:
+   - (A) Private interests.
+   - (B) Investment real property interests.
+   - (C) Municipal bonds.
+   - (D) Closely-held operating businesses.
+   - A covered person may continue to hold and may transfer additional value into an existing position in an asset listed in this paragraph, but shall not create a new position in an asset listed in this paragraph while subject to this subchapter, except as provided by law for involuntary acquisitions or compliance administration.
+   - Personal-use residential real property shall not be required to be disclosed solely by reason of this subchapter.
+
+5. Interim restrictions
    - Pending completion of a mandatory compliance transfer, a covered person shall not purchase additional covered units of the asset, direct timing except as necessary to comply with law, exercise discretionary voting or management authority where avoidable, or take action to increase exposure.
 
-4. Tax treatment
+6. Tax treatment
    - Congress shall provide by law that a mandatory compliance transfer required solely by this subchapter shall receive nonrecognition treatment.
    - Such law shall provide for basis carryover, holding-period carryover or equivalent treatment, deferred-gain tracking, and anti-abuse rules sufficient to ensure that the mandatory compliance transfer is not treated as a taxable event at the time of compliance.
 
-5. Exit transfers
+7. Exit transfers
    - Congress shall provide by law a uniform mechanism for the return or distribution of assets or proceeds upon leaving covered office, and any transfer required solely to unwind the compliance structure shall receive the same nonrecognition protection until a later taxable disposition occurs under ordinary law.
 
-6. Construction
+8. Construction
    - Nothing in this section shall be construed to permit a covered person to retain discretionary control over a covered asset during any transfer, liquidation, or deferral period.

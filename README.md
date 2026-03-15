@@ -11,6 +11,7 @@ has a structural conflict of interest in regulating itself.
 | Document | Contents |
 |----------|----------|
 | [AMENDMENT.md](AMENDMENT.md) | The amendment text and preamble — the authoritative source |
+| [OPEN_ISSUES.md](OPEN_ISSUES.md) | Unresolved drafting and policy questions requiring decisions |
 | [plan.md](plan.md) | Step-by-step concrete plan from amendment drafting through ratification |
 | [strategy.md](strategy.md) | Strategic framing: why a convention, the two-front strategy, historical parallels, decision logic |
 | [tactics.md](tactics.md) | Convention call language, state targeting, messaging, congressional ally recruitment, compliance infrastructure |

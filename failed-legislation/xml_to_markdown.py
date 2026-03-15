@@ -274,14 +274,20 @@ def convert_xml(xml_path: Path, out_path: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert congressional bill XML to clean Markdown.")
-    parser.add_argument("inputs", nargs="*", help="XML file paths. If omitted, convert all *.xml in script directory.")
+    parser.add_argument(
+        "inputs",
+        nargs="*",
+        help="XML file paths. If omitted, convert all *.xml in sources/ (fallback: script directory).",
+    )
     args = parser.parse_args()
 
     base = Path(__file__).resolve().parent
     if args.inputs:
         xml_files = [Path(p).resolve() for p in args.inputs]
     else:
-        xml_files = sorted(base.glob("*.xml"))
+        xml_files = sorted((base / "sources").glob("*.xml"))
+        if not xml_files:
+            xml_files = sorted(base.glob("*.xml"))
 
     if not xml_files:
         raise SystemExit("No XML files found.")

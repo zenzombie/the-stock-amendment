@@ -21,7 +21,10 @@ constitutional amendments because it satisfies a rare combination of conditions:
    program for federal employees that is inherently compliant with the
    amendment. Combined with a tax-deferral provision in implementing
    legislation (modeled on IRC §1043), members face no genuine financial
-   hardship — only the requirement to invest the way most Americans do
+   hardship — only the requirement to invest the way most Americans do. The
+   implementing statute may also include a predictable-return compliant vehicle
+   (for example, benchmark-linked annual crediting) so the rule is not framed
+   as punishment-only
 
 Most constitutional amendment movements fail because they involve ideological
 issues that divide by party. This one does not.
@@ -219,6 +222,11 @@ The vote calculus against is weak:
 - **Interest group pressure** — corporations prefer lobbying over conventions,
   but this is a single narrow ethics rule with minimal corporate opposition
 
+An additional advantage in legislative votes: a well-designed compliance
+"carrot" (simple transfer mechanics, tax deferral, and predictable in-office
+returns through a neutral compliant vehicle) allows sponsors to present the
+measure as anti-corruption without being anti-savings.
+
 The hardest votes are not the obvious opponents. They are the procedurally
 cautious legislators who support the reform but distrust the process. The
 campaign's legal and constitutional preparation is specifically designed for them.
@@ -251,3 +259,4 @@ of how they fall short.
 - [plan.md](plan.md) — Step-by-step execution plan
 - [tactics.md](tactics.md) — Tactical details for key campaign elements
 - [operations.md](operations.md) — Organizational, coalition, and funding details
+- [risks/003-temporal-market-incentive-distortion.md](risks/003-temporal-market-incentive-distortion.md) — Time-horizon conflict risk even under broad-fund-only compliance

@@ -62,6 +62,26 @@ Set a coverage boundary that is enforceable, resistant to evasion, and political
 
 ---
 
+## 4. Incentive Design ("Carrot" vs Stick-Only)
+
+**Issue:**
+Whether implementing legislation should include a predictable-return compliant vehicle (for example, fixed annual return or benchmark-linked crediting) to make compliance visibly beneficial rather than purely punitive.
+
+**Why this matters:**
+The amendment can pass as a prohibition, but political durability and candidate acceptance may improve if the compliance path is framed as simple, stable, and fair.
+
+**Open questions:**
+- Should Congress offer a fixed nominal rate (for example, 10%) or a benchmark-linked formula?
+- If fixed, what safeguards prevent an excessive taxpayer subsidy in low-return years?
+- If formula-based, what cap/floor and reserve policy best balance predictability and fiscal prudence?
+- Should participation be optional among compliant vehicles, or mandatory for all covered assets during service?
+- What disclosure standards should report annual program cost and reserve adequacy?
+
+**Decision needed:**
+Choose a carrot architecture that strengthens political support without creating avoidable fiscal or fairness liabilities.
+
+---
+
 ## Review Cadence
 
 - Revisit each open issue at the end of every drafting iteration.

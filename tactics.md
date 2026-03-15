@@ -31,6 +31,9 @@ The amendment text must be:
   ownership after leaving. If the process is burdensome, members and potential
   members will cite hardship as grounds to oppose — or worse, the amendment
   will pass but compliance will be gamed through procedural complexity.
+- **Carrot-compatible implementation:** The implementing statute may provide a
+  predictable-return compliant vehicle (fixed or benchmark-linked annual
+  crediting) to reinforce that compliance is stable and fair, not punitive.
 
 ### Working Draft Text
 
@@ -196,6 +199,12 @@ The existence of an easy, low-cost compliance path is itself a messaging asset:
 > federal government already runs a fund that works perfectly. They can use it.
 > When they leave office, they get their money back."*
 
+If a carrot model is adopted in implementing legislation, add:
+
+> *"Compliance is predictable, not punitive. While in office, participants can
+> use a neutral ethics fund with a transparent annual crediting rule set by
+> law, instead of trying to beat the market from inside government."*
+
 ---
 
 ## 3. The Convention Call Resolution
@@ -313,7 +322,7 @@ spokesperson statement. It is non-negotiable.
 
 ### Messaging Don'ts
 
-- Do not argue about investment performance or financial details
+- Do not lead with speculative investment-performance claims
 - Do not cite specific members' trades by name (turns it into partisan attacks)
 - Do not expand the message to include campaign finance, term limits, or
   other issues — even when asked
@@ -441,3 +450,4 @@ standard — the coalition set it before Congress had any reason to respond.
 - [plan.md](plan.md) — Step-by-step execution plan
 - [strategy.md](strategy.md) — Strategic framing and decision logic
 - [operations.md](operations.md) — Organizational, coalition, and funding details
+- [risks/003-temporal-market-incentive-distortion.md](risks/003-temporal-market-incentive-distortion.md) — Time-horizon conflict risk even under broad-fund-only compliance

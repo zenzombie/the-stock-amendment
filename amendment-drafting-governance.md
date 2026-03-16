@@ -49,7 +49,7 @@ essential to the rule itself.
 
 Use implementing-law concepts for operational details such as:
 
-- approved index lists
+- safe-harbor index lists
 - concentration thresholds
 - trustee certification standards
 - compliance forms and reporting workflows
@@ -162,7 +162,7 @@ Those standards invite argument, regulator drift, and loopholes.
 Prefer:
 
 - enumerated permitted categories
-- approved index lists
+- safe-harbor index lists
 - fixed numerical thresholds where necessary
 - default coverage for anything outside the safe harbor
 

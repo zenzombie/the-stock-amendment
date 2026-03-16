@@ -23,26 +23,7 @@ Set trust rules that prevent beneficial-control workarounds while allowing admin
 
 ---
 
-## 2. What Is an Investment?
-
-**Issue:**
-Define the scope of covered financial assets and transactions.
-
-**Why this matters:**
-An underinclusive definition invites substitution into technically allowed but functionally similar instruments.
-
-**Open questions:**
-- Does the ban cover only individual corporate stocks, or also bonds, options, futures, swaps, and crypto assets?
-- Are broad index funds and diversified mutual funds allowed, and under what concentration limits?
-- Should sector ETFs be treated as too targeted and therefore restricted?
-- How are private placements, venture holdings, and pre-IPO shares treated?
-
-**Decision needed:**
-Adopt a definition broad enough to block equivalent speculative exposure while preserving ordinary retirement investing.
-
----
-
-## 3. Scope of Applicability
+## 2. Scope of Applicability
 
 **Issue:**
 Determine who is covered by the constitutional prohibition.
@@ -62,7 +43,7 @@ Set a coverage boundary that is enforceable, resistant to evasion, and political
 
 ---
 
-## 4. Incentive Design ("Carrot" vs Stick-Only)
+## 3. Incentive Design ("Carrot" vs Stick-Only)
 
 **Issue:**
 Whether implementing legislation should include a predictable-return compliant vehicle (for example, fixed annual return or benchmark-linked crediting) to make compliance visibly beneficial rather than purely punitive.
@@ -82,26 +63,7 @@ Choose a carrot architecture that strengthens political support without creating
 
 ---
 
-## 5. Compliance Path for Private Illiquid Assets
-
-**Issue:**
-Private assets often cannot be divested on demand — there may be no market, no willing buyer, contractual transfer restrictions, or lock-up periods that make immediate divestiture legally or practically impossible.
-
-**Why this matters:**
-A blanket divestiture requirement for private assets may be legally unenforceable or result in destructive forced sales at zero value. The amendment should stay focused on administrable public-asset divestiture rules rather than building a high-complexity enforcement regime around private holdings.
-
-**Open questions:**
-- Should any category of private asset still be subject to mandatory divestiture, or should private interests generally be disclosure-only?
-- What disclosure, recusal, blind-trust, or ethics rules should Congress be required or permitted to provide by law for private interests and closely-held operating businesses?
-- How should silent partnership stakes be treated — as disclosure-only private interests, or under a stricter rule?
-- Should private hedge funds remain in the mandatory-divestment bucket because they often have a redemption mechanism, even if exit is delayed by lock-ups or gates?
-
-**Working position:**
-The amendment should require divestiture for public and other market-exitable covered assets, while treating private interests and closely-held operating businesses as disclosure-only assets subject to whatever recusal, blind-trust, reporting, or ethics rules Congress provides by law. Enforcement of compliance and detection of gaming are left primarily to ethics oversight and public accountability, not to a highly complex constitutional enforcement regime.
-
----
-
-## 6. Asset Wrapper Coverage Gaps
+## 4. Asset Wrapper Coverage Gaps
 
 **Issue:**
 Certain economically equivalent products are not explicitly classified.
@@ -120,7 +82,7 @@ Adopt a catch-all classification rule for economically equivalent market exposur
 
 ---
 
-## 7. Ambiguous Bright-Line Standards
+## 5. Ambiguous Bright-Line Standards
 
 **Issue:**
 Some exclusions and safe harbors still depend on flexible language.
@@ -139,25 +101,7 @@ Replace flexible standards with fixed numerical thresholds and default-coverage 
 
 ---
 
-## 8. Disclosure-Only Capital Migration Loophole
-
-**Issue:**
-Current text allows adding value to existing disclosure-only positions.
-
-**Why this matters:**
-A covered person can shift risk-taking into private interests, real-property vehicles, or closely-held businesses while formally complying.
-
-**Open questions:**
-- Should additions to existing disclosure-only positions be capped, frozen, or prohibited except for narrow involuntary or compliance exceptions?
-- Should continued funding of closely-held operating businesses be limited to ordinary-course maintenance?
-- What anti-avoidance rule prevents recharacterizing covered exposure as disclosure-only exposure?
-
-**Decision needed:**
-Set a strict no-expansion rule, or a narrowly defined maintenance-only rule, for disclosure-only positions.
-
----
-
-## 9. Open-Ended Vehicle and Category-Boundary Loopholes
+## 6. Open-Ended Vehicle and Category-Boundary Loopholes
 
 **Issue:**
 Some category definitions and receiving-vehicle language are broad enough to permit structuring around the rule.
@@ -172,6 +116,25 @@ Open-ended drafting enables bespoke compliant-looking structures that preserve p
 
 **Decision needed:**
 Add category-precedence and anti-circumvention rules so ambiguous instruments resolve into covered status by default.
+
+---
+
+## 7. Cross-Cutting Enforcement and Decision Authority
+
+**Issue:**
+The amendment drafts need one unified section describing who interprets compliance, how determinations are made, and what baseline consequences apply.
+
+**Why this matters:**
+Without a single cross-cutting framework, each proposal can drift into inconsistent or duplicative enforcement language.
+
+**Open questions:**
+- Which body or bodies make first-instance compliance determinations and issue guidance?
+- What review or appeal path applies to disputed determinations?
+- What baseline remedies attach to noncompliance (for example, unwind, disclosure flag, civil penalty referral), leaving detailed schedules to law?
+- Which standards stay constitutional-level versus implementing-law-level?
+
+**Decision needed:**
+Adopt one amendment-wide enforcement and decision-authority framework and cross-reference it from proposal-specific sections.
 
 ---
 

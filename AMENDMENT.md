@@ -9,7 +9,7 @@
 
 Public service is grounded in trust. This article does not presume bad faith by those who serve in Congress; it recognizes that durable legitimacy requires not only actual integrity, but institutional arrangements that visibly protect it.
 
-When Members of Congress hold or trade individual securities while exercising authority over laws, appropriations, and regulation, the appearance of impropriety creates an ongoing surface of distrust between the public and the government it elects.
+When federal officials hold or trade individual securities while exercising authority over laws, appropriations, regulation, and the administration of federal power, the appearance of impropriety creates an ongoing surface of distrust between the public and the government it elects.
 
 This amendment is therefore structural, not punitive. Its purpose is to close a recurring governance gap with a rule that is clear in principle and practical in operation, so compliance can be implemented through low-friction mechanisms rather than case-by-case judgments about intent.
 
@@ -72,10 +72,14 @@ Any implementing legislation under this article should use bright-line permitted
 9. Definitions and construction
 	- For purposes of this section:
 	  - (A) "Covered Person" means:
-	    - (i) a Member of Congress; and
-	    - (ii) an individual employed in a Congressional Staff Position.
+	    - (i) a Member of Congress;
+	    - (ii) the President of the United States;
+	    - (iii) the Vice President of the United States; and
+	    - (iv) an individual employed in a Covered Position.
 	    - "Member of Congress" means an elected member of the Senate or House of Representatives.
-	    - "Congressional Staff Position" means a position with the House of Representatives, the Senate, or any committee, leadership office, or officer thereof, that by reason of its duties involves regular access to non-public information obtained in connection with the legislative functions of Congress. Congress shall by law identify the categories of position that qualify, but may not do so in a manner that categorically excludes senior personal office staff of Members of Congress, the staff of any congressional committee, or senior staff of any congressional leadership office.
+	    - "Covered Position" means a position that by reason of its duties involves regular access to non-public information obtained in connection with the exercise of federal legislative or executive power, as follows:
+	      - A legislative Covered Position is a position with the House of Representatives, the Senate, or any committee, leadership office, or officer thereof. Congress shall by law identify the categories of position that qualify, but may not do so in a manner that categorically excludes senior personal office staff of Members of Congress, the staff of any congressional committee, or senior staff of any congressional leadership office.
+	      - An executive Covered Position is a position in the executive branch of the United States, other than a purely ministerial or administrative position. Congress shall by law identify the categories of position that qualify, but may not do so in a manner that categorically excludes the heads of executive departments, members of the Cabinet, or senior staff of the Executive Office of the President.
 	  - (B) "Beneficial Ownership" means direct or indirect economic interest in, or power to benefit from, an asset, including any such interest held by a member of the Covered Person's Household. This definition operates independently of the property law of any state.
 	  - (C) "Control" means authority to direct purchase, sale, allocation, or disposition of assets, whether exercised directly or through an intermediary.
 	  - (D) "Investment Asset" means a financial instrument, contract, or property interest held for financial return, income, appreciation, or speculation, including stocks, bonds, fund interests, derivatives, digital assets, commodity interests, private investment interests, and market-linked insurance or annuity products, but not including personal-use residential real property, investment-property interests, or closely-held operating businesses.

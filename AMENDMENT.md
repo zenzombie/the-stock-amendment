@@ -51,7 +51,7 @@ Any implementing legislation under this article should use bright-line permitted
 	- An involuntary acquisition of a non-safe-harbor Investment Asset shall be divested within the Cure Period established by law. A Covered Person may not retain such an asset beyond the Cure Period.
 
 6. Implementing-law authority
-	- Congress shall provide by law a uniform mechanism for compliance, including: applicable Compliance Window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; enforcement, penalties, investigation authority, and audit rights.
+	- Congress shall provide by law a uniform mechanism for compliance, including: applicable Compliance Window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; household attribution standards, including procedures establishing when a Covered Person lacks Beneficial Ownership of a separately titled account held by a Household member; enforcement, penalties, investigation authority, and audit rights.
 
 7. Anti-circumvention
 	- Congress shall provide by law that no labeling, packaging, restructuring, intermediary, or synthetic arrangement may be used to evade the prohibition in paragraph 1 where substantially equivalent prohibited financial exposure is preserved.
@@ -71,8 +71,12 @@ Any implementing legislation under this article should use bright-line permitted
 
 9. Definitions and construction
 	- For purposes of this section:
-	  - (A) "Covered Person" means an individual subject to the applicability provisions of this article.
-	  - (B) "Beneficial Ownership" means direct or indirect economic interest in, or power to benefit from, an asset.
+	  - (A) "Covered Person" means:
+	    - (i) a Member of Congress; and
+	    - (ii) an individual employed in a Congressional Staff Position.
+	    - "Member of Congress" means an elected member of the Senate or House of Representatives.
+	    - "Congressional Staff Position" means a position with the House of Representatives, the Senate, or any committee, leadership office, or officer thereof, that by reason of its duties involves regular access to non-public information obtained in connection with the legislative functions of Congress. Congress shall by law identify the categories of position that qualify, but may not do so in a manner that categorically excludes senior personal office staff of Members of Congress, the staff of any congressional committee, or senior staff of any congressional leadership office.
+	  - (B) "Beneficial Ownership" means direct or indirect economic interest in, or power to benefit from, an asset, including any such interest held by a member of the Covered Person's Household. This definition operates independently of the property law of any state.
 	  - (C) "Control" means authority to direct purchase, sale, allocation, or disposition of assets, whether exercised directly or through an intermediary.
 	  - (D) "Investment Asset" means a financial instrument, contract, or property interest held for financial return, income, appreciation, or speculation, including stocks, bonds, fund interests, derivatives, digital assets, commodity interests, private investment interests, and market-linked insurance or annuity products, but not including personal-use residential real property, investment-property interests, or closely-held operating businesses.
 	  - (E) "Safe-Harbor Asset" means an Investment Asset in a category expressly identified as a safe-harbor by this article or by law enacted consistently with this article, including Safe-Harbor Funds, United States government obligations, Qualifying Cash Equivalents, Fixed Insurance or Annuity Products, and US Treasury-linked Insurance or Annuity Products.
@@ -80,5 +84,10 @@ Any implementing legislation under this article should use bright-line permitted
 	  - (G) "Qualifying Cash Equivalent" means a cash or cash-management instrument meeting objective duration, holdings, credit-quality, and liquidity criteria established by law, including insured deposits and government-only money market instruments.
 	  - (H) "Compliance Window" means the fixed period established by law for initial or transition compliance.
 	  - (I) "Cure Period" means the fixed period established by law to divest an involuntarily acquired or residual non-safe-harbor position.
+	  - (J) "Household" means a Covered Person's spouse or domestic partner. Congress may by law extend attribution to additional persons whose financial interests are closely connected to the Covered Person.
 	- Any ambiguous or unclassified financial instrument, contract, product, arrangement, or synthetic exposure shall be treated as an Investment Asset that is not a Safe-Harbor Asset unless and until law classifies it otherwise consistent with this article.
 	- Congress may define additional terms by law to administer this article, but may not narrow the constitutional floor established by this paragraph.
+
+10. Information conduct
+	- A Covered Person shall not disclose to any person, for the purpose of enabling financial gain by any person, information that is not publicly available and that the Covered Person obtained by reason of office.
+	- Congress shall provide by law standards, enforcement authority, and penalties for this prohibition, and may by law provide that a person who knowingly receives and acts on information disclosed in violation of this paragraph is subject to civil or criminal penalty.

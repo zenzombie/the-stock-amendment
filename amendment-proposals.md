@@ -125,13 +125,13 @@ Any AI system, automated editor, or drafting assistant making changes to the def
 - **Qualifying cash equivalent**
    - A cash or cash-management instrument meeting objective duration, holdings, credit-quality, and liquidity criteria established by law, including insured deposits and government-only money market instruments.
 
-- **Safe-harbor fund**
-   - A public fund, including an index fund or target-date retirement fund, that either tracks or seeks to track a Safe-harbor index, or follows a target-date asset-allocation strategy with automatic rebalancing, and in either case does not use a sector, industry, issuer-specific, thematic, or policy-targeted strategy.
+- **Safe-Harbor Fund**
+   - A public fund, including an index fund or target-date retirement fund, that either tracks or seeks to track a Safe-Harbor Index, or follows a target-date asset-allocation strategy with automatic rebalancing, and in either case does not use a sector, industry, issuer-specific, thematic, or policy-targeted strategy.
 
-- **Safe harbor asset**
-   - An investment asset in a category expressly identified as a safe harbor by the applicable constitutional provision or by law enacted consistent with that provision, including Safe-harbor funds, United States government obligations, Qualifying cash equivalents, Fixed insurance or annuity products, and US Treasury-linked insurance or annuity products.
+- **Safe-Harbor Asset**
+   - An investment asset in a category expressly identified as a safe-harbor by the applicable constitutional provision or by law enacted consistent with that provision, including Safe-Harbor Funds, United States government obligations, Qualifying cash equivalents, Fixed insurance or annuity products, and US Treasury-linked insurance or annuity products.
 
-- **Safe-harbor index**
+- **Safe-Harbor Index**
    - A publicly disseminated, rules-based broad-market industry benchmark securities index identified by law for safe-harbor eligibility, including total market indexes, the S&P 500, the Dow Jones Industrial Average, and comparable broad-market benchmarks.
 
 - **Statutory threshold**
@@ -144,7 +144,7 @@ Any AI system, automated editor, or drafting assistant making changes to the def
    - The date on which an individual takes the oath for a covered office.
 
 - **Tracking deviation**
-   - The maximum permitted variance, established by law, between a fund's benchmark exposure and its Safe-harbor index.
+   - The maximum permitted variance, established by law, between a fund's benchmark exposure and its Safe-Harbor Index.
 
 - **US Treasury-linked insurance or annuity product**
    - An insurance policy, annuity contract, or similar insurer-administered product under which contract value, credited return, or benefits are determined solely by reference to United States government obligations or benchmark rates derived solely from them.
@@ -317,8 +317,8 @@ Classify assets based on the economic exposure of the instrument itself, not on 
 1. Common holdings:
    - Stocks.
    - Corporate bonds.
-   - Exchange Traded Funds (ETFs) except for Safe-harbor funds.
-   - Mutual funds except for Safe-harbor funds.
+   - Exchange Traded Funds (ETFs) except for Safe-Harbor Funds.
+   - Mutual funds except for Safe-Harbor Funds.
 
 2. Less common holdings:
    - Foreign sovereign bonds.
@@ -344,7 +344,7 @@ General rule for this category: each listed asset must be disclosed, is not subj
 
 #### Excluded Assets
 
-1. Safe-harbor funds.
+1. Safe-Harbor Funds.
 
 2. Personal-use residential real property.
 
@@ -361,16 +361,16 @@ General rule for this category: each listed asset must be disclosed, is not subj
 1. Keep this section strictly asset-focused
    - Do not reference spouse, dependent child, trust control, trading authority, or beneficial ownership.
 
-2. Define objective thresholds and Safe-harbor index standards in implementing text
+2. Define objective thresholds and Safe-Harbor Index standards in implementing text
    - Add numeric tests for concentration and de minimis values using Statutory threshold and De minimis residual position.
-   - Specify which indexes qualify as a Safe-harbor index and what Tracking deviation remains permissible, with total market indexes, the S&P 500, and the Dow Jones Industrial Average expressly treated as qualifying benchmarks.
+   - Specify which indexes qualify as a Safe-Harbor Index and what Tracking deviation remains permissible, with total market indexes, the S&P 500, and the Dow Jones Industrial Average expressly treated as qualifying benchmarks.
    - Add a fixed Cure period deadline for involuntary residual positions.
 
 3. Preserve account neutrality
    - State explicitly that asset status does not change based on whether held in a standard taxable brokerage account (including app-based brokerages), IRA, 401(k), or other vehicle.
 
 4. Prefer bright-line permitted fund categories over open-ended flexibility
-   - Favor Safe-harbor funds as the main safe harbor category for index funds and target-date retirement funds.
+   - Favor Safe-Harbor Funds as the main safe-harbor category for index funds and target-date retirement funds.
    - Avoid multifactor standards that require case-by-case judgment about whether a fund is "diversified enough" or "passive enough."
    - If a fund does not clearly fit an enumerated permitted category, treat it as covered unless Congress expressly adds it.
 
@@ -386,8 +386,8 @@ General rule for this category: each listed asset must be disclosed, is not subj
        - (A) Common holdings most members can identify quickly:
           - (i) Stocks, where the instrument creates issuer-specific economic exposure.
           - (ii) Corporate bonds, where the instrument creates issuer-specific economic exposure.
-          - (iii) ETFs, except for Safe-harbor funds.
-          - (iv) Mutual funds, except for Safe-harbor funds.
+          - (iii) ETFs, except for Safe-Harbor Funds.
+          - (iv) Mutual funds, except for Safe-Harbor Funds.
        - (B) Complex vehicles (less common, still covered):
           - (i) Foreign sovereign bonds.
           - (ii) Public convertible instruments.
@@ -407,7 +407,7 @@ General rule for this category: each listed asset must be disclosed, is not subj
 
 4. Excluded assets
    - The term "excluded asset" means any of the following:
-   - (A) Safe-harbor funds, including exchange-traded funds, mutual funds, and target-date retirement funds, where the fund satisfies the definition of Safe-harbor fund and any Safe-harbor index and Tracking deviation criteria established by law. Congress shall establish and maintain by law a public list of Safe-harbor indexes that includes total market indexes, the S&P 500, and the Dow Jones Industrial Average, and may include comparable broad-market benchmarks consistent with this section.
+   - (A) Safe-Harbor Funds, including exchange-traded funds, mutual funds, and target-date retirement funds, where the fund satisfies the definition of Safe-Harbor Fund and any Safe-Harbor Index and Tracking deviation criteria established by law. Congress shall establish and maintain by law a public list of Safe-Harbor Indexes that includes total market indexes, the S&P 500, and the Dow Jones Industrial Average, and may include comparable broad-market benchmarks consistent with this section.
    - (B) Personal-use residential real property.
    - (C) Fixed insurance or annuity products.
    - (D) US Treasury-linked insurance or annuity products.
@@ -693,7 +693,7 @@ Draft the amendment around conflict surfaces rather than named financial product
    - Mitigate by requiring Congress to enact objective implementing criteria, public safe-harbor lists, and clear tiered compliance pathways.
 
 2. Regulatory drift risk
-   - Mitigate with default coverage, narrow safe harbors, and anti-circumvention standards.
+   - Mitigate with default coverage, narrow safe-harbors, and anti-circumvention standards.
 
 3. Uneven interpretation risk
    - Mitigate through uniform statutory definitions, reporting templates, and transparent public guidance by law.
@@ -717,7 +717,7 @@ Draft the amendment around conflict surfaces rather than named financial product
 
 #### Core Concept
 
-State the prohibition in one sentence at the constitutional level. Define what is permitted (safe harbor allow-list). Provide two operative rules: an entry/transition rule and an in-office rule. Everything else — transition mechanics, disclosure forms, tax treatment, penalties — is implementing law.
+State the prohibition in one sentence at the constitutional level. Define what is permitted (safe-harbor allow-list). Provide two operative rules: an entry/transition rule and an in-office rule. Everything else — transition mechanics, disclosure forms, tax treatment, penalties — is implementing law.
 
 The underlying rationale is simple: every non-safe-harbor investment asset generates financial benefit tied to specific market outcomes, which may conflict with a covered person's duty to legislate for the benefit of the nation. The constitutional rule eliminates that conflict surface by prohibiting specific-return financial exposure during service.
 
@@ -726,15 +726,15 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
 #### Draft Policy Structure
 
 1. Top-level prohibition
-   - A covered person shall not have beneficial ownership of, or control over, any investment asset that is not a safe harbor asset.
+   - A covered person shall not have beneficial ownership of, or control over, any investment asset that is not a Safe-Harbor Asset.
 
 2. Universal disclosure obligation
    - A covered person shall disclose all beneficial ownership of, and control over, closely-held operating businesses, investment-property interests, and investment assets, as provided by law.
    - A covered person shall disclose all personal debt obligations and all debt obligations of any closely-held operating business or investment-property interest in which the covered person has beneficial ownership of, or control over, as provided by law.
    
-3. Safe harbor allow-list
+3. Safe-harbor allow-list
    - The enumerated categories are:
-     - (A) Safe-harbor funds.
+   - (A) Safe-Harbor Funds.
      - (B) United States government obligations and Qualifying cash equivalents.
      - (C) Fixed insurance or annuity products.
      - (D) US Treasury-linked insurance or annuity products.
@@ -747,7 +747,7 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
    - Disclosure under this rule is a transition mechanism only and does not authorize indefinite retention of a non-safe-harbor investment asset.
 
 5. In-office rule (no new exposure)
-   - While subject to this subchapter, a covered person shall not acquire, create, or increase a financial interest in any investment asset that is not a safe harbor asset.
+   - While subject to this subchapter, a covered person shall not acquire, create, or increase a financial interest in any investment asset that is not a Safe-Harbor Asset.
    - Involuntary acquisitions may be held only during a cure period and only if divested within that period.
 
 6. Implementing-law authority
@@ -778,7 +778,7 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
    - Prior designs permitted permanent holdings under a "disclosure-only" label, which acknowledges a conflict without eliminating it. Here, disclosure + recusal is the bridge between taking office and completing divestment — it cannot become a permanent state.
 
 3. Allow-list is more durable than a prohibited-list
-   - Enumerating prohibited instruments requires constant amendment as new products emerge. Enumerating permitted instruments puts the burden on Congress to justify any safe harbor, not to catch every evasion.
+   - Enumerating prohibited instruments requires constant amendment as new products emerge. Enumerating permitted instruments puts the burden on Congress to justify any safe-harbor, not to catch every evasion.
 
 4. Two-clause structure is teachable
    - *Don't hold it* (prohibition) and *don't buy it* (in-office rule) are the whole rule. Everything else is machinery.
@@ -791,30 +791,30 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
 #### Clause-Style Draft
 
 1. Prohibition
-   - A covered person shall not have beneficial ownership of, or control over, any investment asset that is not a safe harbor asset.
+   - A covered person shall not have beneficial ownership of, or control over, any investment asset that is not a Safe-Harbor Asset.
 
 2. Disclosure
    - A covered person shall disclose all beneficial ownership of, and control over, closely-held operating businesses, investment-property interests, and investment assets, as provided by law.
    - A covered person shall disclose all personal debt obligations and all debt obligations of any closely-held operating business or investment-property interest in which the covered person has beneficial ownership of, or control over, as provided by law.
-   - The disclosure obligation applies to safe harbor assets and non-safe-harbor investment assets alike.
+   - The disclosure obligation applies to Safe-Harbor Assets and non-safe-harbor investment assets alike.
    - Compliance with the prohibition does not relieve the duty to disclose.
 
-3. Safe harbor assets
-   - The following are safe harbor assets for purposes of this section:
-     - (A) Safe-harbor funds.
+3. Safe-harbor assets
+    - The following are Safe-Harbor Assets for purposes of this section:
+       - (A) Safe-Harbor Funds.
      - (B) United States government obligations and Qualifying cash equivalents.
      - (C) Fixed insurance or annuity products.
      - (D) US Treasury-linked insurance or annuity products.
-   - Congress may by law identify additional safe harbor categories, but only if each such category satisfies objective criteria established by law ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with the duties of a covered person.
-   - Congress may not remove a category listed in subparagraphs (A) through (D) from the safe harbor.
+   - Congress may by law identify additional safe-harbor categories, but only if each such category satisfies objective criteria established by law ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with the duties of a covered person.
+   - Congress may not remove a category listed in subparagraphs (A) through (D) from the safe-harbor.
 
 4. Entry and transition
-   - Not later than the end of the applicable compliance window, a covered person shall divest all financial interests in investment assets that are not safe harbor assets.
+   - Not later than the end of the applicable compliance window, a covered person shall divest all financial interests in investment assets that are not Safe-Harbor Assets.
    - For any such asset that cannot be divested within the compliance window, the covered person may apply for a hardship retention exception under paragraph 8. Retention beyond the compliance window is not authorized unless and until that exception is approved.
    - Disclosure under this paragraph is a transition mechanism only. No provision of this section authorizes indefinite retention of a non-safe-harbor investment asset by reason of disclosure alone.
 
 5. In-office acquisition prohibition
-   - While a covered person remains subject to this subchapter, the covered person shall not acquire, create, or increase a financial interest in any investment asset that is not a safe harbor asset.
+   - While a covered person remains subject to this subchapter, the covered person shall not acquire, create, or increase a financial interest in any investment asset that is not a Safe-Harbor Asset.
    - An involuntary acquisition of a non-safe-harbor investment asset shall be divested within the cure period established by law. A covered person may not retain such an asset beyond the cure period.
 
 6. Implementing-law authority

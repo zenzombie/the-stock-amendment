@@ -17,54 +17,68 @@ Congress has repeatedly struggled to impose durable, self-binding restrictions i
 
 The states therefore propose this article, invoking their authority under Article V, to establish a permanent constitutional floor that no act of Congress may weaken, repeal, or evade.
 
-Any implementing legislation under this article should use bright-line permitted categories rather than open-ended balancing tests, and should be designed for administrable, low-friction compliance. In particular, Congress should limit permitted public-fund holdings to target-date funds, United States government obligations, qualifying cash equivalents, and funds that track domestic indexes expressly approved by law.
+Any implementing legislation under this article should use bright-line permitted categories rather than open-ended balancing tests, and should be designed for administrable, low-friction compliance. In particular, Congress should limit permitted public-fund holdings to target-date funds, United States government obligations, Qualifying Cash Equivalents, and funds that track domestic indexes expressly approved by law.
 
 ---
 
 ## Proposed Text
 
 1. Prohibition
-	- A covered person shall not have beneficial ownership of, or control over, any investment asset that is not a safe harbor asset.
+	- A Covered Person shall not have Beneficial Ownership of, or Control over, any Investment Asset that is not a Safe-Harbor Asset.
 
 2. Disclosure
-	- A covered person shall disclose all beneficial ownership of, and control over, closely-held operating businesses, investment-property interests, and investment assets, as provided by law.
-	- A covered person shall disclose all personal debt obligations and all debt obligations of any closely-held operating business or investment-property interest in which the covered person has beneficial ownership of, or control over, as provided by law.
-	- The disclosure obligation applies to safe harbor assets and non-safe-harbor investment assets alike.
+	- A Covered Person shall disclose all Beneficial Ownership of, and Control over, closely-held operating businesses, investment-property interests, and Investment Assets, as provided by law.
+	- A Covered Person shall disclose all personal debt obligations and all debt obligations of any closely-held operating business or investment-property interest in which the Covered Person has Beneficial Ownership of, or Control over, as provided by law.
+	- The disclosure obligation applies to Safe-Harbor Assets and non-safe-harbor Investment Assets alike.
 	- Compliance with the prohibition does not relieve the duty to disclose.
 
-3. Safe harbor assets
-	- The following are safe harbor assets for purposes of this section:
-	  - (A) Safe-harbor funds.
-	  - (B) United States government obligations and Qualifying cash equivalents.
-	  - (C) Fixed insurance or annuity products.
-	  - (D) US Treasury-linked insurance or annuity products.
-	- Congress may by law identify additional safe harbor categories, but only if each such category satisfies objective criteria established by law ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with the duties of a covered person.
-	- Congress may not remove a category listed in subparagraphs (A) through (D) from the safe harbor.
+3. Safe-Harbor Assets
+	- The following are Safe-Harbor Assets for purposes of this section:
+	  - (A) Safe-Harbor Funds.
+	  - (B) United States government obligations and Qualifying Cash Equivalents.
+	  - (C) Fixed Insurance or Annuity Products.
+	  - (D) US Treasury-linked Insurance or Annuity Products.
+	- Congress may by law identify additional safe-harbor categories, but only if each such category satisfies objective criteria established by law ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with the duties of a Covered Person.
+	- Congress may not remove a category listed in subparagraphs (A) through (D) from the safe-harbor.
 
-4. Entry and transition
-	- Not later than the end of the applicable compliance window, a covered person shall divest all financial interests in investment assets that are not safe harbor assets.
-	- For any such asset that cannot be divested within the compliance window, the covered person may apply for a hardship retention exception under paragraph 8. Retention beyond the compliance window is not authorized unless and until that exception is approved.
-	- Disclosure under this paragraph is a transition mechanism only. No provision of this section authorizes indefinite retention of a non-safe-harbor investment asset by reason of disclosure alone.
+4. Divestment and transition
+	- Not later than the end of the applicable Compliance Window, a Covered Person shall divest all financial interests in Investment Assets that are not Safe-Harbor Assets.
+	- For any such asset that cannot be divested within the Compliance Window, the Covered Person may apply for a Hardship Retention exception under paragraph 8. Retention beyond the Compliance Window is not authorized unless and until that exception is approved.
+	- Disclosure under this paragraph is a transition mechanism only. No provision of this section authorizes indefinite retention of a non-safe-harbor Investment Asset by reason of disclosure alone.
 
 5. In-office acquisition prohibition
-	- While a covered person remains subject to this subchapter, the covered person shall not acquire, create, or increase a financial interest in any investment asset that is not a safe harbor asset.
-	- An involuntary acquisition of a non-safe-harbor investment asset shall be divested within the cure period established by law. A covered person may not retain such an asset beyond the cure period.
+	- While a Covered Person remains subject to this subchapter, the Covered Person shall not acquire, create, or increase a financial interest in any Investment Asset that is not a Safe-Harbor Asset.
+	- An involuntary acquisition of a non-safe-harbor Investment Asset shall be divested within the Cure Period established by law. A Covered Person may not retain such an asset beyond the Cure Period.
 
 6. Implementing-law authority
-	- Congress shall provide by law a uniform mechanism for compliance, including: applicable compliance window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; enforcement, penalties, investigation authority, and audit rights.
+	- Congress shall provide by law a uniform mechanism for compliance, including: applicable Compliance Window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; enforcement, penalties, investigation authority, and audit rights.
 
 7. Anti-circumvention
 	- Congress shall provide by law that no labeling, packaging, restructuring, intermediary, or synthetic arrangement may be used to evade the prohibition in paragraph 1 where substantially equivalent prohibited financial exposure is preserved.
 
-8. Hardship retention
-	- A covered person seeking to retain a non-safe-harbor investment asset beyond the compliance window shall apply to the independent body designated by law before or promptly upon expiration of the compliance window. The exception is available on a case-by-case basis only and does not take effect until the application is approved.
+8. Hardship Retention
+	- A Covered Person seeking to retain a non-safe-harbor Investment Asset beyond the Compliance Window shall apply to the independent body designated by law before or promptly upon expiration of the Compliance Window. The exception is available on a case-by-case basis only and does not take effect until the application is approved.
 	- The designated body may approve an application only upon a finding that one of the following grounds is satisfied:
-	  - (A) divestment is barred by a binding contractual restriction the covered person did not create or extend for purposes of evading this section; or
+	  - (A) divestment is barred by a binding contractual restriction the Covered Person did not create or extend for purposes of evading this section; or
 	  - (B) no market exists or the only available sale price would result in material financial loss, as determined by the designated body on the record.
 	- An approved hardship retention is subject to the following conditions without exception:
-	  - (i) the covered person shall disclose the retained asset and the specific basis for the approval;
-	  - (ii) the covered person shall recuse from any official act in which the retained asset creates a direct financial interest;
-	  - (iii) the covered person shall not increase, reinvest into, or otherwise expand the retained position; and
-	  - (iv) the covered person shall divest at the first commercially reasonable lawful opportunity.
+	  - (i) the Covered Person shall disclose the retained asset and the specific basis for the approval;
+	  - (ii) the Covered Person shall recuse from any official act in which the retained asset creates a direct financial interest;
+	  - (iii) the Covered Person shall not increase, reinvest into, or otherwise expand the retained position; and
+	  - (iv) the Covered Person shall divest at the first commercially reasonable lawful opportunity.
 	- Retention under this paragraph may not continue beyond the absolute maximum retention period established by law. Congress shall provide by law the application process, the standard for material financial loss, and the maximum retention period, which shall be narrow and fixed.
 	- The prohibition on creating or extending a contractual restriction for purposes of evasion shall be construed broadly.
+
+9. Definitions and construction
+	- For purposes of this section:
+	  - (A) "Covered Person" means an individual subject to the applicability provisions of this article.
+	  - (B) "Beneficial Ownership" means direct or indirect economic interest in, or power to benefit from, an asset.
+	  - (C) "Control" means authority to direct purchase, sale, allocation, or disposition of assets, whether exercised directly or through an intermediary.
+	  - (D) "Investment Asset" means a financial instrument, contract, or property interest held for financial return, income, appreciation, or speculation, including stocks, bonds, fund interests, derivatives, digital assets, commodity interests, private investment interests, and market-linked insurance or annuity products, but not including personal-use residential real property, investment-property interests, or closely-held operating businesses.
+	  - (E) "Safe-Harbor Asset" means an Investment Asset in a category expressly identified as a safe-harbor by this article or by law enacted consistently with this article, including Safe-Harbor Funds, United States government obligations, Qualifying Cash Equivalents, Fixed Insurance or Annuity Products, and US Treasury-linked Insurance or Annuity Products.
+	  - (F) "Safe-Harbor Fund" means a public fund, including an index fund or target-date retirement fund, that tracks or seeks to track a Safe-Harbor Index, or follows a target-date asset-allocation strategy with automatic rebalancing, and in either case does not use a sector, industry, issuer-specific, thematic, or policy-targeted strategy.
+	  - (G) "Qualifying Cash Equivalent" means a cash or cash-management instrument meeting objective duration, holdings, credit-quality, and liquidity criteria established by law, including insured deposits and government-only money market instruments.
+	  - (H) "Compliance Window" means the fixed period established by law for initial or transition compliance.
+	  - (I) "Cure Period" means the fixed period established by law to divest an involuntarily acquired or residual non-safe-harbor position.
+	- Any ambiguous or unclassified financial instrument, contract, product, arrangement, or synthetic exposure shall be treated as an Investment Asset that is not a Safe-Harbor Asset unless and until law classifies it otherwise consistent with this article.
+	- Congress may define additional terms by law to administer this article, but may not narrow the constitutional floor established by this paragraph.

@@ -138,6 +138,96 @@ Adopt one amendment-wide enforcement and decision-authority framework and cross-
 
 ---
 
+## 8. Definition Capture Through Implementing Law
+
+**Issue:**
+Core constitutional terms are currently left largely to statute, creating a risk that a future Congress narrows definitions while preserving formal compliance.
+
+**Why this matters:**
+If key terms can be redefined downward, the prohibition can be weakened without formally repealing the amendment.
+
+**Open questions:**
+- Which terms require a constitutional minimum floor (for example, covered person, beneficial ownership, control, investment asset, and safe harbor asset)?
+- Should the amendment include a default rule that ambiguous or unclassified instruments are treated as covered?
+- Which definitions can safely remain fully statutory without creating evasion pathways?
+
+**Decision needed:**
+Set a constitutional definitions floor for anti-evasion-critical terms, while leaving operational detail to implementing law.
+
+---
+
+## 9. Delegation Limits and Non-Implementation Backstop
+
+**Issue:**
+The amendment delegates most compliance mechanics to Congress without a constitutional backstop if Congress delays, underfunds, or designs weak implementation.
+
+**Why this matters:**
+A broad delegation without a fallback can produce practical non-enforcement despite constitutional text.
+
+**Open questions:**
+- Should the amendment require implementing legislation by a fixed deadline?
+- If the deadline is missed, what default interim rules apply automatically?
+- What minimum enforcement, disclosure, and audit capabilities should be constitutionally guaranteed?
+
+**Decision needed:**
+Adopt a time-certain implementation requirement and constitutional fallback defaults to prevent functional nullification.
+
+---
+
+## 10. Hardship Exception Creep
+
+**Issue:**
+Hardship retention authority can expand into a broad carve-out if standards, timelines, and oversight are too flexible.
+
+**Why this matters:**
+A generous hardship pathway can become the main compliance path, defeating the transition-based design.
+
+**Open questions:**
+- Should the amendment constitutionalize a short, non-waivable maximum retention period?
+- What minimum public disclosure and recusal conditions should apply automatically upon approval?
+- Should repeated or rolling hardship approvals be categorically barred?
+
+**Decision needed:**
+Constitutionalize hard guardrails that keep hardship narrow, temporary, and auditable.
+
+---
+
+## 11. Anti-Circumvention Proof and Burden Design
+
+**Issue:**
+Anti-circumvention language exists, but proving substantially equivalent exposure can be evidentiary heavy without presumptions or burden allocation rules.
+
+**Why this matters:**
+A prohibition that is hard to prove in practice can be evaded through wrappers, intermediaries, and synthetic replication.
+
+**Open questions:**
+- Should the amendment require statutory presumptions for economically equivalent exposure patterns?
+- Should burden shift to the filer once substantial equivalence is shown?
+- What minimum recordkeeping and audit trail requirements are needed to make anti-circumvention enforceable?
+
+**Decision needed:**
+Adopt anti-circumvention proof architecture that is litigation-resilient and administrable.
+
+---
+
+## 12. Safe-Harbor Expansion Governance
+
+**Issue:**
+Congress may add safe-harbor categories under statutory criteria that Congress itself defines, which can weaken the rule over time.
+
+**Why this matters:**
+Safe-harbor expansion is a high-leverage pathway for gradual dilution without headline repeal.
+
+**Open questions:**
+- Should additional categories require heightened legislative thresholds or independent certification criteria?
+- Should the amendment require public findings on conflict-risk neutrality before adding a category?
+- Should any classes be constitutionally barred from future safe-harbor treatment regardless of statute?
+
+**Decision needed:**
+Set durable governance constraints for safe-harbor expansion to prevent dilution-by-amendment-implementation.
+
+---
+
 ## Review Cadence
 
 - Revisit each open issue at the end of every drafting iteration.

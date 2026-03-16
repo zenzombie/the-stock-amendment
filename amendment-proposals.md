@@ -69,7 +69,7 @@ Any AI system, automated editor, or drafting assistant making changes to the def
    - A narrowly authorized temporary exception permitting a covered person to hold an otherwise prohibited investment asset beyond the compliance window solely because divestment would cause contractual breach or material financial loss due to illiquidity. The exception is available only on a case-by-case basis, requires the covered person to apply to and obtain approval from the designated independent body before or promptly upon expiration of the compliance window, and is subject to mandatory disclosure, mandatory recusal, and an absolute statutory retention limit.
 
 - **Household**
-   - The set of persons whose holdings are attributed to a covered person under the amendment.
+   - A Covered Person's spouse or domestic partner. Congress may by law extend attribution to additional persons whose financial interests are closely connected to the Covered Person.
 
 - **Initial compliance window**
    - The period following swearing-in during which required certifications, disclosures, and required transitions must be completed.

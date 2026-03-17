@@ -21,7 +21,7 @@ Any AI system, automated editor, or drafting assistant making changes to the def
 ### Proposed Defined Terms
 
 - **Beneficial ownership**
-   - Direct or indirect economic interest in, or power to benefit from, an asset.
+   - Direct or indirect economic interest in, or power to benefit from, an asset, including any such interest held by a member of the covered person's household. This definition operates independently of the property law of any state.
 
 - **Closely-held operating business**
    - A private business in which the covered person holds an ownership interest and that conducts active trade or business operations, as distinct from a passive investment vehicle.
@@ -39,7 +39,7 @@ Any AI system, automated editor, or drafting assistant making changes to the def
    - An asset classified as covered under the asset-classification rules of the amendment.
 
 - **Covered person**
-   - An individual subject to the applicability provisions of the amendment.
+   - An individual who is: (i) a Member of Congress; (ii) the President of the United States; (iii) the Vice President of the United States; or (iv) employed in a Covered Position.
 
 - **Cure period**
    - The fixed period allowed to correct or divest a noncompliant or residual position before penalties attach.
@@ -69,7 +69,7 @@ Any AI system, automated editor, or drafting assistant making changes to the def
    - A narrowly authorized temporary exception permitting a covered person to hold an otherwise prohibited investment asset beyond the compliance window solely because divestment would cause contractual breach or material financial loss due to illiquidity. The exception is available only on a case-by-case basis, requires the covered person to apply to and obtain approval from the designated independent body before or promptly upon expiration of the compliance window, and is subject to mandatory disclosure, mandatory recusal, and an absolute statutory retention limit.
 
 - **Household**
-   - A Covered Person's spouse or domestic partner. Congress may by law extend attribution to additional persons whose financial interests are closely connected to the Covered Person.
+   - A covered person's spouse or domestic partner. Congress may by law extend attribution to additional persons whose financial interests are closely connected to the covered person.
 
 - **Initial compliance window**
    - The period following swearing-in during which required certifications, disclosures, and required transitions must be completed.
@@ -738,7 +738,7 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
      - (B) United States government obligations and Qualifying cash equivalents.
      - (C) Fixed insurance or annuity products.
      - (D) US Treasury-linked insurance or annuity products.
-   - Congress may add a category only if it satisfies objective criteria established by this section ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with a covered person's legislative duties.
+   - Congress may add a category only if it satisfies objective criteria established by this section ensuring the category does not create financial exposure specific to any issuer, sector, or marketable asset capable of conflicting with the duties of a covered person.
    - Congress may not remove an enumerated category from this section.
 
 4. Entry and transition rule (entry)
@@ -751,7 +751,8 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
    - Involuntary acquisitions may be held only during a cure period and only if divested within that period.
 
 6. Implementing-law authority
-   - Congress shall provide by law: compliance window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for required dispositions; recusal procedures; disclosure form, filing cadence, and reporting requirements; enforcement, penalties, and audit authority.
+   - Congress shall provide by law: compliance window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for required dispositions; recusal procedures; disclosure form, filing cadence, and reporting requirements; enforcement, penalties, and audit authority; a legislative-branch administrative compliance office for onboarding and transfer logistics; use of licensed independent fiduciary or custodial agents to execute required dispositions and transfers; and a funding-continuity backstop under which, if no appropriation for the independent ethics body is enacted for a fiscal year, an amount not less than the prior fiscal year's enacted level remains available until replaced by subsequent law.
+   - The administrative compliance office may provide logistical and operational support only and may not issue binding compliance determinations or adjudicate hardship retention applications.
 
 7. Anti-circumvention
    - Congress shall provide by law that no labeling, packaging, restructuring, intermediary, or synthetic arrangement may be used to circumvent the prohibition where substantially equivalent prohibited financial exposure is preserved.
@@ -818,7 +819,8 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
    - An involuntary acquisition of a non-safe-harbor investment asset shall be divested within the cure period established by law. A covered person may not retain such an asset beyond the cure period.
 
 6. Implementing-law authority
-   - Congress shall provide by law a uniform mechanism for compliance, including: applicable compliance window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; enforcement, penalties, investigation authority, and audit rights.
+   - Congress shall provide by law a uniform mechanism for compliance, including: applicable compliance window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; enforcement, penalties, investigation authority, and audit rights; a legislative-branch administrative compliance office for onboarding and transfer logistics; use of licensed independent fiduciary or custodial agents to execute required dispositions and transfers; and a funding-continuity backstop under which, if no appropriation for the independent ethics body is enacted for a fiscal year, an amount not less than the prior fiscal year's enacted level remains available until replaced by subsequent law.
+   - The administrative compliance office may provide logistical and operational support only and may not issue binding compliance determinations or adjudicate hardship retention applications.
 
 7. Anti-circumvention
    - Congress shall provide by law that no labeling, packaging, restructuring, intermediary, or synthetic arrangement may be used to evade the prohibition in paragraph 1 where substantially equivalent prohibited financial exposure is preserved.
@@ -835,3 +837,71 @@ Disclosure, in this design, is a transition mechanism only — a temporary statu
      - (iv) the covered person shall divest at the first commercially reasonable lawful opportunity.
    - Retention under this paragraph may not continue beyond the absolute maximum retention period established by law. Congress shall provide by law the application process, the standard for material financial loss, and the maximum retention period, which shall be narrow and fixed.
    - The prohibition on creating or extending a contractual restriction for purposes of evasion shall be construed broadly.
+
+### Model Implementing-Law Durability Clauses (Independent Body)
+
+Use this as a statutory durability checklist so the independent body remains functional across political cycles.
+
+1. Appointment and tenure continuity
+   - Principal officers serve staggered fixed terms and remain in office until a successor is qualified.
+   - Vacancy does not invalidate agency action; designated acting officials automatically assume authority under a statutory order of succession.
+
+2. Removal protection
+   - Principal officers may be removed only for cause, with written findings published in the Federal Register.
+
+3. Quorum and deadlock continuity
+   - If quorum is unavailable for more than a fixed period, delegated adjudication and enforcement panels automatically activate under pre-published rules.
+
+4. Non-abrogation and non-transfer rule
+   - Core functions (binding determinations, hardship adjudication, audit/investigation authority, and enforcement referrals) may not be abolished, suspended, or reassigned except to a successor body that meets the same independence and funding standards.
+
+5. Administrative support office guardrails
+   - Congress shall maintain a separate legislative-branch administrative compliance office to provide onboarding, forms support, and transfer coordination.
+   - The administrative office may not issue binding compliance determinations, hardship approvals, or enforcement outcomes.
+
+6. Funding continuity
+   - If no annual appropriation is enacted, the body receives not less than the prior fiscal year enacted amount, adjusted by a statutory formula, until superseded by subsequent law.
+
+7. Anti-impoundment and allotment floor
+   - Appropriated funds for core functions are automatically apportioned and may not be reserved, deferred, or reprogrammed below the statutory operations floor.
+
+8. Mandatory public performance reporting
+   - Quarterly publication of staffing levels, filing timeliness, backlog, audit volume, determination timelines, referrals, and enforcement outcomes in machine-readable format.
+
+9. Records and audit-trail integrity
+   - All filings, determinations, and enforcement records must be retained under tamper-evident controls and subject to independent periodic records-integrity audit.
+
+10. Judicial resilience
+   - Include severability and fallback procedures so that invalidation of one process does not suspend disclosure, compliance windows, or core prohibitions.
+
+11. Scheduled external review without weakening default
+   - Require an independent performance review every fixed interval (for example, every 6 years), with public recommendations; absent new law, existing powers and duties continue unchanged.
+
+### Issue 7 Closeout: Statutory Framework (Appeals, Remedies, Procedures)
+
+Use this as the default implementing-law package to close the remaining enforcement-architecture items.
+
+1. Review and appeal path
+   - First-instance determinations are issued by the independent ethics body on a written record.
+   - A covered person may seek internal reconsideration within a fixed period (for example, 14 days) limited to clear error, new material evidence, or change in controlling law.
+   - Final agency action is subject to judicial review in a designated federal court under a deferential record-review standard as provided by law.
+   - Filing for reconsideration or judicial review does not automatically stay divestment, recusal, or disclosure obligations unless an express stay is granted on written findings.
+
+2. Baseline remedies ladder
+   - Level 1 (administrative cure): notice of deficiency, mandatory cure plan, and deadline with automated status reporting.
+   - Level 2 (noncompliance finding): public compliance flag, mandatory recusal expansion where applicable, and civil monetary penalty schedule.
+   - Level 3 (continued or willful noncompliance): mandatory unwind/disposition order, disgorgement or forfeiture of noncompliant gains as provided by law, and referral for civil enforcement.
+   - Level 4 (aggravated evasion): enhanced penalties, mandatory referral for further investigation, and disqualification from hardship relief for a fixed period.
+
+3. Procedural clocks and evidentiary defaults
+   - Initial completeness review deadline (for example, 10 business days from filing).
+   - Initial determination deadline (for example, 45 days from complete filing), extendable once for good cause with public written notice.
+   - Hardship decision deadline (for example, 30 days from complete application); if no decision issues by deadline, interim recusal remains mandatory and position-expansion remains prohibited.
+   - Evidentiary standard for hardship: clear documentary showing of contractual bar or material financial loss under statutory metrics.
+   - Burden allocation: filer bears burden to establish eligibility; agency bears burden for aggravated-evasion findings.
+
+4. Uniform process protections
+   - Standardized forms, required data fields, and machine-readable submissions.
+   - Written reasons for all adverse determinations.
+   - Public redacted decision summaries on a fixed publication cadence.
+   - Record-closure and retention rules sufficient for audit and judicial review.

@@ -121,6 +121,14 @@ Add category-precedence and anti-circumvention rules so ambiguous instruments re
 
 ## 7. Cross-Cutting Enforcement and Decision Authority
 
+**Status update (March 2026):**
+Substantially resolved in current draft text. [AMENDMENT.md](AMENDMENT.md) now adopts a unified framework with (1) an independent ethics body holding core functions (binding determinations, hardship adjudication, audit/investigation, and enforcement referral authority) and (2) a separate legislative-branch administrative compliance office for onboarding and transfer logistics only. Core independent functions are expressly non-reassignable to the administrative office.
+
+**Remaining implementation items (statutory):**
+- Final review/appeal path for disputed determinations.
+- Final baseline consequence schedule (for example, unwind order, disclosure flagging, civil penalty tiers, referral triggers).
+- Final procedural clocks and evidentiary rules for determinations and hardship applications.
+
 **Issue:**
 The amendment drafts need one unified section describing who interprets compliance, how determinations are made, and what baseline consequences apply.
 
@@ -134,7 +142,7 @@ Without a single cross-cutting framework, each proposal can drift into inconsist
 - Which standards stay constitutional-level versus implementing-law-level?
 
 **Decision needed:**
-Adopt one amendment-wide enforcement and decision-authority framework and cross-reference it from proposal-specific sections.
+Finalize and codify the remaining implementing-law mechanics (appeals path, remedies ladder, and procedural clocks), then cross-reference the finalized package from proposal-specific sections.
 
 ---
 

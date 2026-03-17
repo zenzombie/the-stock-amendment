@@ -51,7 +51,8 @@ Any implementing legislation under this article should use bright-line permitted
 	- An involuntary acquisition of a non-safe-harbor Investment Asset shall be divested within the Cure Period established by law. A Covered Person may not retain such an asset beyond the Cure Period.
 
 6. Implementing-law authority
-	- Congress shall provide by law a uniform mechanism for compliance, including: applicable Compliance Window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; household attribution standards, including procedures establishing when a Covered Person lacks Beneficial Ownership of a separately titled account held by a Household member; enforcement, penalties, investigation authority, and audit rights.
+	- Congress shall provide by law a uniform mechanism for compliance, including: applicable Compliance Window deadlines; divestment pathways for illiquid, contractually restricted, employer-linked, and insurer-administered assets; nonrecognition tax treatment for dispositions required by this section; recusal and disclosure procedures; household attribution standards, including procedures establishing when a Covered Person lacks Beneficial Ownership of a separately titled account held by a Household member; enforcement, penalties, investigation authority, and audit rights; establishment of a legislative-branch administrative compliance office to provide ministerial onboarding and transfer support; and use of licensed independent fiduciary or custodial agents to execute required dispositions and transfers under standards established by law.
+	- The administrative compliance office under this paragraph may provide logistical and operational support only and may not issue binding compliance determinations or adjudicate Hardship Retention applications.
 
 7. Anti-circumvention
 	- Congress shall provide by law that no labeling, packaging, restructuring, intermediary, or synthetic arrangement may be used to evade the prohibition in paragraph 1 where substantially equivalent prohibited financial exposure is preserved.
@@ -69,7 +70,21 @@ Any implementing legislation under this article should use bright-line permitted
 	- Retention under this paragraph may not continue beyond the absolute maximum retention period established by law. Congress shall provide by law the application process, the standard for material financial loss, and the maximum retention period, which shall be narrow and fixed.
 	- The prohibition on creating or extending a contractual restriction for purposes of evasion shall be construed broadly.
 
-9. Definitions and construction
+9. Independent ethics body
+	- Congress shall provide by law for an independent body to administer and enforce this section.
+	- The body's core functions, as provided by law, shall include receiving and reviewing required disclosures and certifications, issuing binding compliance determinations, adjudicating Hardship Retention applications under paragraph 8, conducting audits and investigations, and referring violations for civil enforcement.
+	- The body shall be headed by principal officers appointed by the President, by and with the advice and consent of the Senate.
+	- Consent under this section shall require the affirmative vote of a majority of Senators duly chosen and sworn.
+	- Principal officers shall serve fixed terms as provided by law and shall be removable only for cause.
+	- Congress may by law vest the appointment of inferior officers in the body, its principal officers, or another constitutionally permitted appointing authority.
+	- Congress shall provide by law for timely public reporting by the body.
+	- Congress shall provide by law for sufficient funding and staffing to carry out the body's core functions.
+	- Congress shall provide by law for a funding-continuity backstop so that any lapse or shortfall in appropriations does not suspend the body's core functions under this section.
+	- Congress shall provide by law for continuity-of-operations rules, including acting-officer and quorum rules, so that vacancy, recusal, or delay in appointment does not suspend the body's core functions under this section.
+	- Congress may not abolish the body or reassign its core functions except to another body structured and funded in conformity with this paragraph.
+	- Core functions under this paragraph may not be reassigned to the administrative compliance office described in paragraph 6.
+
+10. Definitions and construction
 	- For purposes of this section:
 	  - (A) "Covered Person" means:
 	    - (i) a Member of Congress;
@@ -92,6 +107,6 @@ Any implementing legislation under this article should use bright-line permitted
 	- Any ambiguous or unclassified financial instrument, contract, product, arrangement, or synthetic exposure shall be treated as an Investment Asset that is not a Safe-Harbor Asset unless and until law classifies it otherwise consistent with this article.
 	- Congress may define additional terms by law to administer this article, but may not narrow the constitutional floor established by this paragraph.
 
-10. Information conduct
+11. Information conduct
 	- A Covered Person shall not disclose to any person, for the purpose of enabling financial gain by any person, information that is not publicly available and that the Covered Person obtained by reason of office.
 	- Congress shall provide by law standards, enforcement authority, and penalties for this prohibition, and may by law provide that a person who knowingly receives and acts on information disclosed in violation of this paragraph is subject to civil or criminal penalty.

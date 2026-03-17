@@ -42,12 +42,16 @@ Any implementing legislation under this article should use bright-line permitted
 	- Congress may not remove a category listed in subparagraphs (A) through (D) from the safe-harbor.
 
 4. Divestment and transition
-	- Not later than the end of the applicable Compliance Window, a Covered Person shall divest all financial interests in Investment Assets that are not Safe-Harbor Assets.
+	- A Covered Person is subject to the Divestment Tier if the Covered Person is: (A) a Member of Congress, (B) the President of the United States, (C) the Vice President of the United States, or (D) employed in a Covered Position and either expected to serve more than 180 days in a twelve-month period or has served more than 180 cumulative days in a rolling twelve-month period.
+	- A Covered Person employed in a Covered Position who is not subject to the Divestment Tier is subject to the Trading-Prohibition Tier.
+	- Not later than the end of the applicable Compliance Window, a Covered Person subject to the Divestment Tier shall divest all financial interests in Investment Assets that are not Safe-Harbor Assets.
+	- A Covered Person subject to the Trading-Prohibition Tier who crosses the service threshold in this paragraph becomes subject to the Divestment Tier on that date, and the applicable Compliance Window shall begin on that date.
 	- For any such asset that cannot be divested within the Compliance Window, the Covered Person may apply for a Hardship Retention exception under paragraph 8. Retention beyond the Compliance Window is not authorized unless and until that exception is approved.
 	- Disclosure under this paragraph is a transition mechanism only. No provision of this section authorizes indefinite retention of a non-safe-harbor Investment Asset by reason of disclosure alone.
 
 5. In-office acquisition prohibition
 	- While a Covered Person remains subject to this subchapter, the Covered Person shall not acquire, create, or increase a financial interest in any Investment Asset that is not a Safe-Harbor Asset.
+	- While a Covered Person remains subject to the Trading-Prohibition Tier, the Covered Person shall recuse from any official act in which a retained non-safe-harbor Investment Asset creates a direct financial interest.
 	- An involuntary acquisition of a non-safe-harbor Investment Asset shall be divested within the Cure Period established by law. A Covered Person may not retain such an asset beyond the Cure Period.
 
 6. Implementing-law authority
@@ -104,6 +108,8 @@ Any implementing legislation under this article should use bright-line permitted
 	  - (H) "Compliance Window" means the fixed period established by law for initial or transition compliance.
 	  - (I) "Cure Period" means the fixed period established by law to divest an involuntarily acquired or residual non-safe-harbor position.
 	  - (J) "Household" means a Covered Person's spouse or domestic partner. Congress may by law extend attribution to additional persons whose financial interests are closely connected to the Covered Person.
+	  - (K) "Divestment Tier" means the category of Covered Persons described in paragraph 4 who are subject to mandatory divestment.
+	  - (L) "Trading-Prohibition Tier" means the category of Covered Persons described in paragraph 4 who are subject to the trading prohibition and disclosure obligations without mandatory divestment unless converted to the Divestment Tier under paragraph 4.
 	- Any ambiguous or unclassified financial instrument, contract, product, arrangement, or synthetic exposure shall be treated as an Investment Asset that is not a Safe-Harbor Asset unless and until law classifies it otherwise consistent with this article.
 	- Congress may define additional terms by law to administer this article, but may not narrow the constitutional floor established by this paragraph.
 
